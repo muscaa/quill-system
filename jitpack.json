@@ -1,0 +1,8 @@
+{
+    "user": "muscaa",
+    "repo": "fluff-github",
+    "depends": [
+        "fluff-core",
+        "fluff-http"
+    ]
+}
