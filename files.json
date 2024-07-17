@@ -1,0 +1,20 @@
+[
+    "java\/fluff\/sorting\/ISortingAlgorithm.class",
+    "java\/fluff\/sorting\/Sorting.class",
+    "java\/fluff\/sorting\/algorithms\/MergeSortAlgorithm.class",
+    "java\/fluff\/sorting\/algorithms\/QuickSortAlgorithm.class",
+    "java\/fluff\/sorting\/ISortingData.class",
+    "java\/fluff\/sorting\/SortingFunctions.class",
+    "java\/fluff\/sorting\/data\/ListSortingData.class",
+    "java\/fluff\/sorting\/data\/ArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/ShortArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/FloatArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/CharArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/ByteArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/LongArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/IntArraySortingData.class",
+    "java\/fluff\/sorting\/data\/natives\/DoubleArraySortingData.class",
+    "java\/fluff_lib.info",
+    "java\/META-INF\/LICENSE",
+    "java\/META-INF\/NOTICE"
+]

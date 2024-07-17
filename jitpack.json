@@ -1,0 +1,8 @@
+{
+    "user": "muscaa",
+    "repo": "fluff-sorting",
+    "depends": [
+        "fluff-core",
+        "fluff-functions"
+    ]
+}
