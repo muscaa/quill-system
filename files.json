@@ -1,0 +1,15 @@
+[
+    "java\/fluff\/platform\/os\/OS.class",
+    "java\/fluff\/platform\/os\/JavaVersion.class",
+    "java\/fluff\/platform\/os\/OSArch.class",
+    "java\/fluff\/platform\/utils\/PlatformUtils.class",
+    "java\/fluff\/platform\/Platform.class",
+    "java\/fluff\/platform\/INativeLibrary.class",
+    "java\/fluff\/platform\/library\/BundledNativeLibrary.class",
+    "java\/fluff\/platform\/library\/URLNativeLibrary.class",
+    "java\/fluff\/platform\/PlatformConfig.class",
+    "java\/fluff\/platform\/NativeLibraryPaths.class",
+    "java\/fluff_lib.info",
+    "java\/META-INF\/LICENSE",
+    "java\/META-INF\/NOTICE"
+]

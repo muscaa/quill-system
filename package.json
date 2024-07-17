@@ -1,0 +1,9 @@
+{
+    "depends" : [
+        "fluff-core"
+    ],
+    "author" : "muscaa",
+    "id" : "fluff-platform",
+    "version" : "1.0.5",
+    "class" : null
+}
