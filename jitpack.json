@@ -1,6 +1,5 @@
 {
     "user": "muscaa",
     "repo": "fluff-core",
-    "depends": [],
-    "class": "fluff.core.FluffCore"
+    "depends": []
 }
