@@ -1,0 +1,16 @@
+{
+    "user": "muscaa",
+    "repo": "fluff-commons",
+    "depends": [
+        "fluff-core",
+        "fluff-functions",
+        "fluff-files",
+        "fluff-bin",
+        "fluff-reflection",
+        "fluff-logging",
+        "fluff-sorting",
+        "fluff-crypto",
+        "fluff-json",
+        "fluff-http"
+    ]
+}
