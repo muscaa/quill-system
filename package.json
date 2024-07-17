@@ -1,0 +1,10 @@
+{
+    "depends" : [
+        "fluff-core",
+        "fluff-json"
+    ],
+    "author" : "muscaa",
+    "id" : "fluff-http",
+    "version" : "1.0.4",
+    "class" : null
+}
