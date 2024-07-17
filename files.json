@@ -1,0 +1,21 @@
+[
+    "java\/fluff\/loader\/AbstractClassLoader.class",
+    "java\/fluff\/loader\/resources\/FolderResource.class",
+    "java\/fluff\/loader\/resources\/JarResource.class",
+    "java\/fluff\/loader\/resources\/FileResource.class",
+    "java\/fluff\/loader\/resources\/ClassResource.class",
+    "java\/fluff\/loader\/IResource.class",
+    "java\/fluff\/loader\/AbstractClassLoader$1.class",
+    "java\/fluff\/loader\/utils\/EnumerationUtils.class",
+    "java\/fluff\/loader\/utils\/EnumerationUtils$2.class",
+    "java\/fluff\/loader\/utils\/EnumerationUtils$1.class",
+    "java\/fluff\/loader\/AbstractLoader.class",
+    "java\/fluff\/loader\/IClassBuilder.class",
+    "java\/fluff\/loader\/RuntimeClassLoader.class",
+    "java\/fluff\/loader\/ResourcePath.class",
+    "java\/fluff\/loader\/loaders\/ResourceLoader.class",
+    "java\/fluff\/loader\/loaders\/ExtendedLoader.class",
+    "java\/fluff_lib.info",
+    "java\/META-INF\/LICENSE",
+    "java\/META-INF\/NOTICE"
+]
