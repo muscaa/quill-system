@@ -1,0 +1,20 @@
+[
+    "java\/fluff\/core\/FluffCore.class",
+    "java\/fluff\/core\/utils\/StringUtils.class",
+    "java\/fluff\/core\/lib\/LibraryException.class",
+    "java\/fluff\/core\/lib\/ILibraryManager.class",
+    "java\/fluff\/core\/lib\/info\/ExceptionFunction.class",
+    "java\/fluff\/core\/lib\/info\/LibraryInfoTransformIf.class",
+    "java\/fluff\/core\/lib\/info\/LibraryInfoValue.class",
+    "java\/fluff\/core\/lib\/info\/LibraryInfoTransform.class",
+    "java\/fluff\/core\/lib\/info\/LibraryInfoReader.class",
+    "java\/fluff\/core\/lib\/ResolvedLibrary.class",
+    "java\/fluff\/core\/lib\/ILibrary.class",
+    "java\/fluff\/core\/lib\/LibraryResolver.class",
+    "java\/fluff\/core\/lib\/v1\/V1Library.class",
+    "java\/fluff\/core\/lib\/v1\/LibraryMain.class",
+    "java\/fluff\/core\/lib\/v1\/V1LibraryManager.class",
+    "java\/fluff_lib.info",
+    "java\/META-INF\/LICENSE",
+    "java\/META-INF\/NOTICE"
+]
