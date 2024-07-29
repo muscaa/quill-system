@@ -1,9 +1,0 @@
-[
-    "java\/fluff\/events\/IEventListener.class",
-    "java\/fluff\/events\/AbstractEvent.class",
-    "java\/fluff\/events\/CancellableEvent.class",
-    "java\/fluff\/events\/EventManager.class",
-    "java\/fluff_lib.info",
-    "java\/META-INF\/LICENSE",
-    "java\/META-INF\/NOTICE"
-]
